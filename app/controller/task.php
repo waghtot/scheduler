@@ -7,6 +7,6 @@ class task{
     }
 
     public function index(){
-        return "Hallo there!";
+        return "Hallo there! People :D";
     }
 }
